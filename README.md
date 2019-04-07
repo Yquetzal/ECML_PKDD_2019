@@ -3,8 +3,8 @@ Code for the article submitted at ECML PKDD 2019: `Detecting Stable Communities 
 
 It contains the source code for:
 
-* The method to detect multi-scale communities
-* The method to generate multi-scale communities.
+* The method to detect multi-scale communities `community_tracker.py`
+* The method to generate multi-scale communities `multi_temporal_scale.py`
 
 ## Demo notebook
 A demo notebook is also provided. It can be run online without set up by following this link:
