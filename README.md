@@ -8,4 +8,4 @@ It contains the source code for:
 
 ## Demo notebook
 A demo notebook is also provided. It can be run online without set up by following this link:
-https://colab.research.google.com/github/Yquetzal/ECML_PKDD_2019/blob/master/simple_demo.ipynb#scrollTo=1tzI9ULisJpy
+https://colab.research.google.com/github/Yquetzal/ECML_PKDD_2019/blob/master/simple_demo.ipynb
